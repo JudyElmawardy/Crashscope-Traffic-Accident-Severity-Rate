@@ -96,6 +96,8 @@ The goal of this project is to build machine learning models that can classify t
 
 ## Contributors
 
-* Sama: Exploratory Data Analysis and Feature Engineering
-  @judyelmawardy (me) : Feature Engineering and Model Development
-  @janaaanr06 : Model Evaluation and UI
+## Contributors
+
+- [@SamaUsername](https://github.com/SamaUsername) - Exploratory Data Analysis (EDA) and Feature Engineering
+- [@judyelmawardy](https://github.com/judyelmawardy) - Feature Engineering and Model Development
+- [@janaaamr06](https://github.com/janaaamr06) - Model Evaluation
