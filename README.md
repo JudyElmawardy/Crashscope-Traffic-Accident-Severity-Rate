@@ -104,3 +104,10 @@ The goal of this project is to build machine learning models that can classify t
 - [@samaelbahrawyy](https://github.com/samaelbahrawyy) - Exploratory Data Analysis (EDA) and Feature Engineering
 - [@judyelmawardy](https://github.com/judyelmawardy) - Feature Engineering and Model Development
 - [@janaaamr06](https://github.com/janaaamr06) - Model Evaluation and UI
+## Application Demo
+
+A user interface for the Traffic Severity Prediction project was developed using Lovable.
+
+You can view the application here:
+
+[View the Application](https://lovable.dev/preview/LIy6nJugFJKWBuANN0YwyOopmeU56PSx)
