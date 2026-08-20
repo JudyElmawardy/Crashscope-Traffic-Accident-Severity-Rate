@@ -98,7 +98,6 @@ pip install pandas numpy matplotlib scikit-learn imbalanced-learn xgboost catboo
 
 The goal of this project is to build machine learning models that can classify traffic accidents based on their severity. The project demonstrates a complete machine learning workflow, including exploratory data analysis, feature engineering, model development, and model evaluation.
 
-## Contributors
 
 ## Contributors
 
