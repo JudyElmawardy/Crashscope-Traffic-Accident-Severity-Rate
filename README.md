@@ -57,10 +57,11 @@ The project was developed using Python and includes libraries such as:
 
 ### Judy
 
-* Contributed to feature engineering
-* Developed and trained multiple machine learning models
-* Addressed class imbalance using techniques such as SMOTE and class weighting
-* Performed hyperparameter tuning to improve model performance
+* Part of the feature engineering process
+* Data splitting and preprocessing
+* Machine learning model development
+* Handling class imbalance
+* Hyperparameter tuning
 
 ### Jana
 
@@ -101,6 +102,6 @@ The goal of this project is to build machine learning models that can classify t
 
 ## Contributors
 
-- [@SamaUsername](https://github.com/SamaUsername) - Exploratory Data Analysis (EDA) and Feature Engineering
+- [@samaelbahrawyy](https://github.com/samaelbahrawyy) - Exploratory Data Analysis (EDA) and Feature Engineering
 - [@judyelmawardy](https://github.com/judyelmawardy) - Feature Engineering and Model Development
 - [@janaaamr06](https://github.com/janaaamr06) - Model Evaluation and UI
